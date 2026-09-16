@@ -36,9 +36,3 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hemisus&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=hemisus&show=streak&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
